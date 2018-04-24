@@ -6,7 +6,7 @@ setup(
     version=0.1,
     author='Tejendra',
     author_email='tpareek32@gmail.com',
-    url='https://github.com/tejendraa/sayHello/testTez',
+    url='https://github.com/tejendraa/sayHello/tree/master/testTez',
     license='MIT',
     packages=['testTez'],
     zip_safe=False)
